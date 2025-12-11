@@ -1,0 +1,7 @@
+project_id = "spsrxehqanbpzjjhfdht"
+
+[functions.process-payment]
+verify_jwt = true
+
+[functions.ai-financial-advisor]
+verify_jwt = true
